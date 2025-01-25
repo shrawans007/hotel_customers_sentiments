@@ -13,6 +13,7 @@ Analysis done in MS Excel, uploaded the same file with multiple sheets comprisin
 ### Tableau (Image of treemap)
 ![Hotel_sentiment_tableau_treemap](https://github.com/user-attachments/assets/de0f4399-de1d-43ae-83b9-b93a21698222)
 
+
 Link of tableau viz with filters: https://public.tableau.com/views/SentimentAnalysisforaHotelstaying/Basedoncustomertextreviews2018-2019?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link 
 
 Please give your valuable feedback, thank you! :)

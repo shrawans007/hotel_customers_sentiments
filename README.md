@@ -15,6 +15,9 @@ Analysis done in MS Excel, uploaded the same file with multiple sheets comprisin
 
 Link of tableau viz with filters: https://public.tableau.com/views/SentimentAnalysisforaHotelstaying/Basedoncustomertextreviews2018-2019?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link 
 
+## Findings/Insights (Screenshot)
+![Screenshot 2025-01-25 212827](https://github.com/user-attachments/assets/2129b78f-1ce6-412a-9e4a-9ffca817faf6)
+
 Please give your valuable feedback, thank you! :)
 
 
